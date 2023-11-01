@@ -4,3 +4,7 @@ body
     background-repeat: no-repeat;
     background-size: auto;
 }
+
+.logo {
+    text-align: center;
+}
